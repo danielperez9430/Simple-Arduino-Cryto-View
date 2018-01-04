@@ -1,12 +1,11 @@
-/*******************************************************************
+﻿/*******************************************************************
     A project to display crypto currency prices using an ESP8266
 
     Main Hardware:
     - NodeMCU Development Board (Any ESP8266 dev board will work)
     - OLED I2C Display (SH1106)
 
-    Written by Brian Lough
-    https://www.youtube.com/channel/UCezJOfu7OtqGzd5xrP3q6WA
+    
  *******************************************************************/
 
 // ----------------------------
