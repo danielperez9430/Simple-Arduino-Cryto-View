@@ -4,7 +4,7 @@
 
 pantalla creada con un ESP8266 que obtiene precios de moneda en vivo directamente de la API [CoinMarketCap.com] (CoinMarketCap.com).
 
-Intenté hacer este proyecto tan fácil de hacer como sea posible. No hay soldadura y tampoco necesitas saber cómo codificar. En total, debería tomar de 10 a 15 minutos
+Intentï¿½ hacer este proyecto tan fï¿½cil de hacer como sea posible. No hay soldadura y tampoco necesitas saber cï¿½mo codificar. En total, deberï¿½a tomar de 10 a 15 minutos
 
 
 ### Partes Necesarias
@@ -16,7 +16,7 @@ Intenté hacer este proyecto tan fácil de hacer como sea posible. No hay soldadur
 ### Tiendas en las que encontrarlas
 Geartbest:
 * [NodeMCU ESP8266 Board](https://es.gearbest.com/transmitters-receivers-module/pp_366523.html?wid=23&lkid=12563384)
-* [Female-Female Dupont cables](https://es.gearbest.com/diy-parts-components/pp_236517.html?wid=23&lkid=12563379)
+* [Female-Female Dupont cables](https://es.gearbest.com/diy-parts-components/pp_234611.html?wid=23&lkid=12563379)
 
 Aliexpress:
 * [NodeMCU ESP8266 Board](http://bit.ly/2lUer9O)
@@ -36,7 +36,7 @@ Debe estar conectado de la siguiente manera
 
 ---
 
-NOTA: Algunas pantallas tienen GND y VCC intercambiados, ¡siempre cablee como se indica arriba!
+NOTA: Algunas pantallas tienen GND y VCC intercambiados, ï¿½siempre cablee como se indica arriba!
 
 ---
 ![alt text](https://i.imgur.com/jaC6E2S.jpg?1 "Warning")
