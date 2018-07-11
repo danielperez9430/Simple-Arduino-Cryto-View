@@ -4,8 +4,6 @@
     Main Hardware:
     - NodeMCU Development Board (Any ESP8266 dev board will work)
     - OLED I2C Display (SH1106)
-
-    
  *******************************************************************/
 
 // ----------------------------
@@ -104,7 +102,9 @@ void setup() {
   // and take the tickerId from the URL (use bitcoin or ethereum as an example)
   
   addNewHolding("bitcoin");
-  addNewHolding("dogecoin");
+  addNewHolding("cardano");
+  addNewHolding("viuly");
+  addNewHolding("siacoin");
   addNewHolding("ethereum");
 
   // ----------------------------
@@ -117,7 +117,7 @@ void setup() {
   display.setFont(ArialMT_Plain_16);
   display.drawString(64, 0, F("HODL Display"));
   display.setFont(ArialMT_Plain_10);
-  display.drawString(64, 18, F("By Brian Lough"));
+  display.drawString(64, 18, F("By Tecnonucleous"));
   display.display();
   
 
